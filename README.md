@@ -6,6 +6,7 @@ Frontend:
 
 Backend:
     - Node.js, Express, Vercel/Netlify
+    - Start: /backend => npm run dev
 
 Database: 
     - Postgres or MongoDB
